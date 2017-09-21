@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+!src/
+!src/bogus/**
+!bin/
+!bin/**
+!*.md
+!.gitignore
